@@ -97,6 +97,35 @@ Din hvilepuls og HRV ser stadig fornuftige ud, så det samlede billede ligner fo
 
 Det betyder, at du ikke skal starte fra nul. Målet er at bevare styrke og muskelmasse med lav friktion, ikke at genopbygge hele din fysik fra bunden.
 
+## Tidligere Styrkehistorik
+
+### StrongLifts 2014
+
+De gamle StrongLifts-data peger på en struktureret træningsblok i 2014.
+
+- Periode: juni 2014 til oktober 2014
+- Kropsvægt i perioden: cirka 103,0-107,3 kg
+
+Bedste registrerede arbejdsvægte i CSV-filen:
+
+- Squat: 127,5 kg
+- Bænkpres: 87,5 kg
+- Press: 67,5 kg
+- Dødløft: 132,5 kg
+- Barbell row: 85,0 kg
+
+Det underbygger, at du har haft en reel styrkebase i mange år. Din nuværende situation ligner derfor ikke et tab af fysisk potentiale, men snarere en kombination af mindre overskud, mindre kontinuitet og lidt højere kropsvægt.
+
+### Historiske PRs Fra Fitocracy
+
+Du har også oplyst følgende historiske personlige rekorder fra dengang, hvor du loggede i Fitocracy:
+
+- Dødløft: 205 kg
+- Squat: 152,5 kg
+- Bænkpres: 132,5 kg
+
+De oprindelige datafiler er ikke tilgængelige her, så disse tal bør læses som selvrapporterede historiske maxløft. De ændrer dog ikke hovedkonklusionen. Tværtimod styrker de billedet af, at du i mange år har haft et markant styrkegrundlag.
+
 ## Praktisk Strategi
 
 - Behold crossfit én gang om ugen som anker

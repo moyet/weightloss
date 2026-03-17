@@ -1,0 +1,34 @@
+"Date","Note","Workout","Body Weight","Exercise 1","Weight (KG)","Weight (LB)","Set 1","Set 2","Set 3","Set 4","Set 5","Exercise 2","Weight (KG)","Weight (LB)","Set 1","Set 2","Set 3","Set 4","Set 5","Exercise 3","Weight (KG)","Weight (LB)","Set 1","Set 2","Set 3","Set 4","Set 5"
+Mon Jun 23,"",A,105KG,Squat,65,145,5,5,5,5,5,Bench press,50,110,5,5,5,5,5,Barbell row,50,110,5,5,5,5,5
+Wed Jun 25,"",B,104KG,Squat,67.5,150,5,5,5,5,5,Overhead press,30,65,5,5,5,5,5,Deadlift,100,220,5,,,,
+Mon Jun 30,"",B,104KG,Squat,72.5,160,5,5,5,5,5,Overhead press,32.5,70,5,5,5,5,5,Deadlift,102.5,225,5,,,,
+Wed Jul 2,"",A,104KG,Squat,75,165,5,5,5,5,5,Bench press,55,120,5,5,5,5,5,Barbell row,55,120,5,5,5,5,5
+Fri Jul 4,"",B,104KG,Squat,77.5,170,5,5,5,5,5,Overhead press,35,75,5,5,5,5,5,Deadlift,105,230,5,,,,
+Mon Jul 7,"",A,104KG,Squat,80,175,5,5,5,5,5,Bench press,57.5,125,5,5,5,5,5,Barbell row,57.5,125,5,5,5,5,5
+Thu Jul 10,"",B,104KG,Squat,82.5,180,5,5,5,5,5,Overhead press,37.5,85,5,5,5,5,5,Deadlift,107.5,235,5,,,,
+Mon Jul 14,"",A,104KG,Squat,85,185,5,5,5,5,5,Bench press,60,130,5,5,5,5,5,Barbell row,60,130,5,5,5,5,5
+Wed Jul 16,"",A,103KG,Squat,90,200,5,5,5,5,5,Bench press,62.5,140,5,5,5,5,5,Barbell row,62.5,140,5,5,5,5,5
+Fri Jul 18,"",B,103KG,Squat,92.5,205,5,5,5,5,5,Overhead press,40,90,5,5,5,5,5,Deadlift,110,240,5,,,,
+Mon Jul 21,"",A,103KG,Squat,95,210,5,5,5,5,5,Bench press,65,145,5,5,5,5,5,Barbell row,65,145,5,5,5,5,5
+Wed Jul 23,"",B,103KG,Squat,97.5,215,5,5,5,5,5,Overhead press,42.5,95,5,5,5,5,5,Deadlift,112.5,250,5,,,,
+Fri Jul 25,"",A,104KG,Squat,100,220,5,5,5,5,5,Bench press,67.5,150,5,5,5,5,5,Barbell row,67.5,150,5,5,5,5,5
+Mon Jul 28,"",B,104KG,Squat,102.5,225,5,5,5,5,5,Overhead press,47.5,105,5,5,5,5,5,Deadlift,117.5,260,5,,,,
+Wed Jul 30,"",A,104KG,Squat,105,230,5,5,5,5,5,Bench press,70,155,5,5,5,5,5,Barbell row,70,155,5,5,5,5,5
+Fri Aug 1,"",B,104KG,Squat,107.5,235,5,5,5,5,5,Overhead press,50,110,5,5,5,5,5,Deadlift,120,265,5,,,,
+Mon Aug 4,"",A,104KG,Squat,110,240,5,5,5,5,5,Bench press,72.5,160,5,5,5,5,5,Barbell row,72.5,160,5,5,5,5,5
+Wed Aug 6,"",B,105KG,Squat,112.5,250,5,5,5,5,5,Overhead press,52.5,115,5,5,5,5,5,Deadlift,122.5,270,5,,,,
+Mon Aug 11,"",A,105KG,Squat,115,255,5,5,5,5,5,Bench press,75,165,5,5,5,5,5,Barbell row,75,165,5,5,5,5,5
+Wed Aug 13,"",B,105KG,Squat,117.5,260,5,5,5,5,5,Overhead press,55,120,5,5,5,5,5,Deadlift,125,275,5,,,,
+Fri Aug 15,"",A,105KG,Squat,120,265,5,5,5,5,5,Bench press,77.5,170,5,5,5,5,5,Barbell row,77.5,170,5,5,5,5,5
+Mon Aug 18,"",B,104KG,Squat,122.5,270,5,5,5,5,5,Overhead press,57.5,125,5,5,5,5,5,Deadlift,127.5,280,5,,,,
+Wed Aug 20,"",A,104KG,Squat,117.5,260,5,5,5,5,5,Bench press,80,175,5,5,5,5,5,Barbell row,80,175,5,5,5,5,5
+Fri Aug 22,"",B,104KG,Squat,120,265,5,5,5,5,5,Overhead press,60,130,5,5,5,5,5,Deadlift,130,285,5,,,,
+Mon Aug 25,"",A,104KG,Squat,122.5,270,5,5,5,5,5,Bench press,85,185,5,5,5,5,5,Barbell row,82.5,180,5,5,5,5,5
+Wed Aug 27,"",B,104KG,Squat,125,275,5,5,5,5,5,Overhead press,65,145,5,5,5,5,4,Deadlift,132.5,290,5,,,,
+Fri Aug 29,"",A,105.5KG,Squat,127.5,280,4,5,5,5,5,Bench press,87.5,195,5,5,5,5,5,Barbell row,85,185,,,,,
+Mon Sep 8,"",B,105.5KG,Squat,110,240,5,5,5,5,5,Overhead press,60,130,5,5,5,5,5,Deadlift,120,265,5,,,,
+Wed Sep 10,"",A,105.5KG,Squat,112.5,250,5,5,5,5,5,Bench press,85,185,5,5,5,5,5,Barbell row,80,175,5,5,5,5,5
+Fri Sep 26,"",B,106.3KG,Squat,70,155,5,5,5,5,5,Overhead press,65,145,5,5,5,5,5,Deadlift,125,275,5,,,,
+Mon Sep 29,"",A,106.3KG,Squat,72.5,160,5,5,5,5,5,Bench press,85,185,5,5,5,5,5,Barbell row,75,165,5,5,5,5,5
+Wed Oct 1,"",B,105.1KG,Squat,75,165,5,5,5,5,5,Overhead press,67.5,150,5,5,5,5,5,Deadlift,127.5,280,5,,,,
+Fri Oct 3,"",A,107.3KG,Squat,80,175,5,5,5,5,5,Bench press,87.5,195,5,5,5,5,5,Barbell row,75,165,5,5,5,5,5
