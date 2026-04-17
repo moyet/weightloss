@@ -36,6 +36,16 @@
 - VO2max er brugbar som pejling, men bør ikke stå alene, fordi astma og Bufomix kan påvirke oplevet vejrtrækning og pulsrespons
 - Det samlede billede er stadig mest: stærk, forholdsvis robust, men presset og lidt for tung
 
+## Garmin Uden Brystbælte (Praktisk Tjekliste)
+
+Hvis du ikke bruger pulsbælte, kan du stadig få brugbare Garmin-tal ved at gøre målingen mere ens fra gang til gang:
+
+- Urplacering: stramt og 1-2 fingerbredder over håndledsknysten
+- Start tidligt: start aktiviteten 1 minut før og stå stille 20-30 sek, så pulsen låser
+- Greb i pauser: undgå hårdt greb med ur-armen i pauserne (kan forstyrre optisk puls)
+- Samme profil: brug samme aktivitetstype hver gang (fx altid `Cardio` til metcons), så TE/load bliver mere sammenligneligt
+- Fokus på trends: kig mere på max/avg puls, samlet tid og hvordan du føler du kommer dig, end på én enkelt TE-etiket
+
 ## Vurdering
 
 Det ligner ikke et billede af dårlig form eller kollapset helbred. Det ligner mere en stærk og forholdsvis muskuløs mand, som er gledet lidt op i vægt, sandsynligvis fordi hverdagen er blevet mere belastet, aktivitetsniveauet mindre stabilt, og overskuddet lavere.
