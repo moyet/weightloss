@@ -1,0 +1,9 @@
+date,time,systolic_mmHg,diastolic_mmHg,source,position,notes
+2026-05-11,,151,84,clinic,sitting,"After resting + ECG; average of 4 measurements"
+2026-05-13,,140,94,home,sitting,"Home monitor; ~1 min rest"
+2026-05-13,,128,74,home,sitting,"Home monitor; 5 min rest; 1 min between; series"
+2026-05-13,,135,70,home,sitting,"Home monitor; 5 min rest; 1 min between; series"
+2026-05-13,,139,74,home,sitting,"Home monitor; 5 min rest; 1 min between; series"
+2026-05-13,,141,75,home,sitting,"Home monitor; 5 min rest; 1 min between; series"
+2026-05-13,,134,80,home,sitting,"Home monitor; 5 min rest; 1 min between; series"
+2026-05-13,,141,92,home,sitting,"Home monitor; 5 min rest; 1 min between; series"
