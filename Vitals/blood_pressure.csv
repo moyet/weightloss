@@ -24,3 +24,7 @@ date,time,systolic_mmHg,diastolic_mmHg,pulse_bpm,source,position,notes
 2026-06-03,18:48,151,85,59,home,sitting,"Home monitor; evening series from screenshot"
 2026-06-03,18:51,153,88,56,home,sitting,"Home monitor; evening series from screenshot"
 2026-06-03,18:53,148,90,57,home,sitting,"Home monitor; evening series from screenshot"
+2026-06-05,07:49,148,88,54,home,sitting,"Home monitor; morning series from zip photo"
+2026-06-05,07:53,156,85,52,home,sitting,"Home monitor; morning series from zip photo"
+2026-06-05,07:58,150,86,51,home,sitting,"Home monitor; morning series from zip photo"
+2026-06-05,08:03,153,91,52,home,sitting,"Home monitor; morning series from zip photo"
