@@ -1,3 +1,21 @@
+---
+date: YYYY-MM-DD
+type: wod
+session:
+  - ""
+tags:
+  - "wod"
+movements: []
+equipment: []
+metrics:
+  total_time:
+  avg_hr_bpm:
+  max_hr_bpm:
+  aerobic_te:
+  anaerobic_te:
+  exercise_load:
+---
+
 # WOD Log
 
 ## Date
