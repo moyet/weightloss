@@ -59,6 +59,28 @@ Det vigtigste er derfor ikke en aggressiv plan. Det vigtigste er en plan, der er
 - Et realistisk tempo vil typisk være 0,1-0,2 kg pr. uge
 - Et sandsynligt godt første målområde er omkring 119-121 kg, hvis muskelmassen bevares nogenlunde
 
+## Fødselsdagsmål: Bænkpres Af Kropsvægt
+
+- Mål: bænkpresse egen kropsvægt på fødselsdagen.
+- Det er et mål, du tidligere har nået stabilt fra 30'erne og til sidst i 40'erne, før familieforhold og corona afbrød kontinuiteten.
+- Den præcise målvægt følger kropsvægten på dagen. Seneste registrerede kropsvægt er 126,8 kg den 19. oktober 2026.
+- Nylige referencepunkter: 5 x 5 bænkpresse på 90 kg den 1. oktober og 7 x 5 på 80 kg den 22. oktober. Du lavede også paused singles op til 120 kg den 5. juni.
+- StrongLifts viser, at du i 2014 byggede fra 50 kg til gentagne 5 x 5 paa 87,5 kg ved en kropsvaegt paa cirka 103-107 kg. Den nyere 5 x 5 paa 90 kg er dermed lidt over din daværende arbejdsvægt.
+- MyWOD dokumenterer en single paa 132,5 kg den 31. marts 2014. Posten den 29. januar 2016 er en foedselsdagsvolumen-session paa 41 reps, fordelt som 7 x 5 + 1 x 6; belastningen er ikke verificeret.
+- Det historiske 1RM paa 132,5 kg er over det nye mål, selv ved den nuværende kropsvægt. Målet handler derfor om at genvinde en tidligere kapacitet, ikke om at skabe noget helt nyt.
+- Målet kræver regelmæssig, specifik bænktræning, men ikke ugentlige maxforsøg.
+
+### Bænkpresstrategi
+
+- Prioriter to bænkeksponeringer i uger, hvor restitutionen tillader det: et volumenpas og et tungere, kontrolleret pas.
+- Volumenpas: 4-5 sæt af 5 reps med en vægt, hvor 2-3 reps stadig er i reserve.
+- Tungt pas: 3-5 sæt af 3-5 reps med rene reps og uden grindere.
+- Øg kun vægten med 2,5 kg, når alle planlagte reps er stabile med ens teknik.
+- Hvis et crossfit-pas allerede har meget tungt pres eller dips, erstatter det den tunge bænkeksponering den uge.
+- Behold rows eller lat pulldown i mindst samme samlede mængde som bænkpressearbejdet.
+- Undgå jævnlige 1RM-forsøg. Brug i stedet arbejdsvægte og kvaliteten af de tunge, kontrollerede reps til at vurdere fremgangen.
+- Med det uafklarede blodtryk: træk vejret gennem hver rep, undgå at holde vejret, og stop sættet før du skal presse eller spænde ukontrolleret.
+
 ## Rammer, Der Skal Respekteres
 
 - Du har en søn med betydelige udfordringer, så træning skal kunne passes ind i en uforudsigelig hverdag
@@ -97,7 +119,8 @@ Din hvilepuls og HRV ser stadig fornuftige ud, så det samlede billede ligner fo
 ## Ressourcer, Du Allerede Har
 
 - To kettlebells: 24 kg og 32 kg
-- Du træner i crossfit-center cirka en gang om ugen
+- Adgang til fitnessrum på arbejdet
+- Du træner i crossfit-center, når det passer med arbejde og familieliv
 - Du cykler på en tung longjohn-cykel
 - Du er stadig relativt stærk:
   - Bænkpres: 110 kg
@@ -134,38 +157,50 @@ Du har også oplyst følgende historiske personlige rekorder fra dengang, hvor d
 - Squat: 152,5 kg
 - Bænkpres: 132,5 kg
 
-De oprindelige datafiler er ikke tilgængelige her, så disse tal bør læses som selvrapporterede historiske maxløft. De ændrer dog ikke hovedkonklusionen. Tværtimod styrker de billedet af, at du i mange år har haft et markant styrkegrundlag.
+MyWOD-dataene bekræfter baenkpres-rekorden: 132,5 kg som single den 31. marts 2014. Dødløft- og squat-rekorderne er fortsat selvrapporterede, da de oprindelige Fitocracy-data ikke er tilgængelige her. Samlet set underbygger tallene, at du i mange år har haft et markant styrkegrundlag.
+
+### Historisk Bænkpres For Fødselsdagsmålet
+
+Den samlede oversigt findes i `Stronglifts/historical_bench_press.md` og bygger på MyWOD samt StrongLifts.
+
+- 2012: 100 kg for 5 x 5, 110 kg x 3 og 125 kg som single.
+- 2013: 125 kg og 130 kg som singles.
+- 2014: historisk bedste registrerede single paa 132,5 kg.
+- 2014 StrongLifts: gentagne 5 x 5 paa 87,5 kg.
+- 2016: foedselsdagsvolumen paa 41 reps, fordelt som 7 x 5 + 1 x 6. Belastningen bruges ikke som styrkereference.
+
+Det gør bænkpresse af kropsvægt til et dokumenteret tidligere niveau og et velvalgt, specifikt mål.
 
 ## Praktisk Strategi
 
-- Behold crossfit én gang om ugen som anker
-- Læg 2 korte hjemmepas oveni, når ugen tillader det
+- Brug fitnessrummet på arbejdet som den mest friktionsfri styrkemulighed
+- Behold et crossfit-pas om ugen, når det passer
+- Læg 1-2 korte pas hjemme eller på arbejdet oveni, når ugen tillader det
 - Brug cyklingen som stabil hverdagsbevægelse
 - Gå efter kontinuitet frem for hårde pas
-- På dårlige uger er minimum nok: 1 crossfit-pas og 1 kort hjemmepas
-- Fredag er dit primære styrkepas, så hjemmepassene skal støtte det og ikke konkurrere med det
+- På dårlige uger er minimum nok: 1 kort pas hjemme eller i fitnessrummet på arbejdet
+- Undgaa at laegge et haardt ekstra benpas lige foer et tungt crossfit-hold
 
 ## Forslag Til Ugestruktur
 
-- Tirsdag: kort hjemmepas
-- Fredag formiddag: crossfit styrkehold
-- Søndag eller mandag: kort hjemmepas
+- En arbejdsdag: 20-35 minutters styrketræning i fitnessrummet
+- En anden arbejdsdag eller weekend: 10-15 minutters hjemmepas eller endnu et kort fitnesspas
+- Weekend eller en anden passende dag: crossfit-hold, hvis det passer
 
 Hvis ugen vælter:
 
-- behold fredagsholdet
-- lav ét minimumspas hjemme
+- lav ét 10-minutters minimumspas hjemme eller på arbejdet
 
-## Fredag Som Fast Anker
+## Fleksibelt Ugeanker
 
-Din faste crossfit-dag er fredag formiddag på et styrkefokuseret hold. Øvelserne skifter fra uge til uge, men træneren arbejder efter en plan.
+Du har ikke laengere en fast crossfit-dag, fordi fredag formiddag er arbejdsdag. Crossfit kan stadig vaere et struktureret ugentligt pas, men fitnessrummet paa arbejdet er den mest stabile mulighed i hverdagen.
 
 Det betyder:
 
-- fredag er dit vigtigste og mest strukturerede træningspas
-- hjemmepassene skal være små, enkle og understøttende
-- du behøver ikke lave et komplet styrkeprogram selv ved siden af
-- hjemmepassene skal ikke prøve at efterligne eller konkurrere med fredagens træning
+- et kort fitnesspas paa arbejdet kan vaere ugens vigtigste pas
+- hjemmepassene skal vaere smaa, enkle og understottende
+- du behoever ikke lave et komplet styrkeprogram selv ved siden af crossfit
+- placeringen af crossfit skal styre, hvor haardt du traener dagen foer
 
 ## Principper For Hjemmepas
 
@@ -210,20 +245,15 @@ Målet de næste 2 uger er ikke fremgang. Målet er bare at etablere rytme.
 
 ### Uge 1
 
-- Tirsdag: 10-minutters minimumspas
-- Fredag: crossfit styrkehold
-- Søndag eller mandag: 10-minutters minimumspas hvis muligt
-
-Fordel dem gerne sådan:
-
-- tirsdag som første hjemmepas
-- søndag eller mandag som andet hjemmepas
+- En arbejdsdag: 10-20 minutters pas i fitnessrummet eller hjemme
+- Crossfit-hold, hvis det passer i ugen
+- Valgfrit: endnu et 10-minutters minimumspas, hvis energien er der
 
 ### Uge 2
 
-- Tirsdag: 10-minutters minimumspas
-- Fredag: crossfit styrkehold
-- Søndag eller mandag: 10-minutters minimumspas if muligt
+- En arbejdsdag: 10-20 minutters pas i fitnessrummet eller hjemme
+- Crossfit-hold, hvis det passer i ugen
+- Valgfrit: endnu et 10-minutters minimumspas, hvis energien er der
 
 Hvis ugen føles god, må du gerne lægge et tredje pas ind, men kun hvis det føles enkelt og udramatisk.
 
@@ -284,7 +314,7 @@ Hvis der er plads og gulvet tillader det:
 
 4. 30-45 sekunders rolig march på stedet med kettlebell i suitcase eller front rack
 
-## To Simple Hjemmepas Ved Siden Af Fredag
+## To Simple Hjemmepas Ved Siden Af Crossfit
 
 ### Pas A
 
@@ -302,7 +332,7 @@ Hvis der er plads og gulvet tillader det:
 2. 6 floor press pr. arm
 3. 20-30 sekunders front rack hold pr. side
 
-Formålet med Pas A og Pas B er ikke progression i sig selv. Formålet er at holde kroppen i gang mellem fredagens træning, uden at skabe unødig træthed.
+Formålet med Pas A og Pas B er ikke progression i sig selv. Formålet er at holde kroppen i gang mellem crossfit- og arbejdspassene uden at skabe unødig traethed.
 
 ## Hvad Passene Skal Gøre
 
